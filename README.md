@@ -1,4 +1,4 @@
-# BERT Text Classification Models
+# Comparing BERT Variants for Sensitive Information Classification in Portuguese
 
 This repository contains text classification implementations using different BERT model variants with Portuguese datasets.
 
